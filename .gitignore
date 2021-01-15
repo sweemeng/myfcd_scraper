@@ -1,0 +1,4 @@
+*.json
+food_data/
+node_modules/
+*.tar.xz
